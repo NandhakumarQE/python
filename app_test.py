@@ -1,6 +1,6 @@
 import pytest
-from fib import fibR
-from fib import is_prime
+from app import fibR
+from app import is_prime
 def test_fib_1_equals_1():
     assert fibR(1) == 1
 
