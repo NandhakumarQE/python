@@ -1,4 +1,3 @@
-import pytest
 from app import fibR
 from app import is_prime
 def test_fib_1_equals_1():
